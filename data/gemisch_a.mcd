@@ -1,0 +1,72 @@
+REPORT-FILE from 10/30/2018 16:28:15.656 - 13:53:39.734  written 10/31/2018 13:53:44
+REALTIME: 77117.627   
+TOTALSUM: 1451685     
+ROISUM: 1451685     
+MAXVAL: 7840        
+LIVETIME: 37640.964   
+cmline0=10/30/2018 16:28:15.656 - 13:53:39.734 
+range=8192
+prena=0
+mcsmode=4
+roimin=0
+roimax=8192
+rtpreset=10.000      
+ltpreset=0.000       
+evpreset=0           
+swpreset=1           
+rampmode=0
+rampstart=1024
+rampstep=1
+rampbin=1
+ramplen=1024
+qdacuse=0
+qdac=2048
+dac1use=0
+dac1val=0
+impsel=f
+thrstart=1716
+thr1=1716
+thr2=1716
+thrclk=3873
+diguse=8
+digval=0
+cycles=300
+sequences=1
+mempart=0
+dwelltime=3
+dwellunit=0
+syncout=101
+histlen=0
+autoinc=0 
+;datname=C:\Documents and Settings\user\Desktop\data\gemisch_a.mcd
+savedata=0 
+fmt=3 
+smoothpts=5 
+caluse=5 
+calch00=0.00
+calvl00=0.000000
+calch01=1518.00
+calvl01=661.620000
+calch02=2864.00
+calvl02=1408.080000
+calch03=1728.00
+calvl03=778.900000
+calch04=2092.00
+calvl04=964.000000
+calch05=827.00
+calvl05=344.300000
+calch06=2341.00
+calvl06=1112.070000
+calch07=2756.00
+calvl07=1332.510000
+calch08=1311.00
+calvl08=569.670000
+calch09=2276.00
+calvl09=1063.620000
+calch10=3444.00
+calvl10=1770.220000
+caloff=-0.130655
+calfact=0.388676
+calfact2=3.25755e-005
+calfact3=1.08605e-009
+calunit=keV

@@ -1,0 +1,58 @@
+REPORT-FILE from 11/05/2018 11:02:13.609 - 11:03:02.437  written 11/05/2018 11:03:16
+REALTIME: 48.681      
+TOTALSUM: 111807      
+ROISUM: 111807      
+MAXVAL: 2879        
+LIVETIME: 47.645      
+cmline0=11/05/2018 11:02:13.609 - 11:03:02.437 
+range=8192
+prena=0
+mcsmode=4
+roimin=0
+roimax=8192
+rtpreset=10.000      
+ltpreset=0.000       
+evpreset=0           
+swpreset=1           
+rampmode=0
+rampstart=1024
+rampstep=1
+rampbin=1
+ramplen=1024
+qdacuse=0
+qdac=2048
+dac1use=0
+dac1val=0
+impsel=f
+thrstart=1716
+thr1=1716
+thr2=1716
+thrclk=3873
+diguse=8
+digval=0
+cycles=300
+sequences=1
+mempart=0
+dwelltime=3
+dwellunit=0
+syncout=101
+histlen=0
+autoinc=0 
+;datname=C:\Documents and Settings\user\Desktop\data\cs137_ged_1cm.mcd
+savedata=0 
+fmt=3 
+smoothpts=5 
+caluse=5 
+calch00=4843.00
+calvl00=1770.220000
+calch01=0.00
+calvl01=0.000000
+calch02=2586.00
+calvl02=1063.620000
+calch03=325.00
+calvl03=569.670000
+caloff=-0.000000
+calfact=2.052270
+calfact2=-0.00096256
+calfact3=1.26838e-007
+calunit=keV

@@ -1,0 +1,54 @@
+REPORT-FILE from 11/05/2018 11:39:57.812 - 11:45:56.406  written 11/05/2018 11:46:03
+REALTIME: 357.449     
+TOTALSUM: 854414      
+ROISUM: 854414      
+MAXVAL: 18357       
+LIVETIME: 349.408     
+cmline0=11/05/2018 11:39:57.812 - 11:45:56.406 
+range=8192
+prena=0
+mcsmode=4
+roimin=0
+roimax=8192
+rtpreset=10.000      
+ltpreset=0.000       
+evpreset=0           
+swpreset=1           
+rampmode=0
+rampstart=1024
+rampstep=1
+rampbin=1
+ramplen=1024
+qdacuse=0
+qdac=2048
+dac1use=0
+dac1val=0
+impsel=f
+thrstart=1716
+thr1=1716
+thr2=1716
+thrclk=3873
+diguse=8
+digval=0
+cycles=300
+sequences=1
+mempart=0
+dwelltime=3
+dwellunit=0
+syncout=101
+histlen=0
+autoinc=0 
+;datname=C:\Documents and Settings\user\Desktop\data\gemischB_ged_4cm.mcd
+savedata=0 
+fmt=3 
+smoothpts=5 
+caluse=1 
+calch00=0.00
+calvl00=0.000000
+calch01=3006.00
+calvl01=661.620000
+caloff=-0.000000
+calfact=0.220100
+calfact2=0
+calfact3=0
+calunit=keV

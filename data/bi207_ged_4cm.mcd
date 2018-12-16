@@ -1,0 +1,58 @@
+REPORT-FILE from 11/05/2018 10:47:00.750 - 10:49:09.984  written 11/05/2018 10:49:37
+REALTIME: 129.023     
+TOTALSUM: 264202      
+ROISUM: 264202      
+MAXVAL: 6349        
+LIVETIME: 126.598     
+cmline0=11/05/2018 10:47:00.750 - 10:49:09.984 
+range=8192
+prena=0
+mcsmode=4
+roimin=0
+roimax=8192
+rtpreset=10.000      
+ltpreset=0.000       
+evpreset=0           
+swpreset=1           
+rampmode=0
+rampstart=1024
+rampstep=1
+rampbin=1
+ramplen=1024
+qdacuse=0
+qdac=2048
+dac1use=0
+dac1val=0
+impsel=f
+thrstart=1716
+thr1=1716
+thr2=1716
+thrclk=3873
+diguse=8
+digval=0
+cycles=300
+sequences=1
+mempart=0
+dwelltime=3
+dwellunit=0
+syncout=101
+histlen=0
+autoinc=0 
+;datname=C:\Documents and Settings\user\Desktop\data\bi207_ged_4cm.mcd
+savedata=0 
+fmt=3 
+smoothpts=5 
+caluse=5 
+calch00=4843.00
+calvl00=1770.220000
+calch01=0.00
+calvl01=0.000000
+calch02=2586.00
+calvl02=1063.620000
+calch03=325.00
+calvl03=569.670000
+caloff=0.000000
+calfact=1.000000
+calfact2=0
+calfact3=0
+calunit=keV
